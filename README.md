@@ -34,9 +34,11 @@ Admin Page:
 ![page6](https://user-images.githubusercontent.com/93299213/177035642-7230afd3-9181-4c14-897a-9dcd86f08024.png)
 
  
- Video link for Presentation of Online Shopping Site(Ecommerce)
+ Video for Presentation of Online Shopping Site(Ecommerce)
  
- https://drive.google.com/file/d/1kP6sj-o7L6VQAQ45sAOmj8ditsA9GMxj/view?usp=sharing
+ 
+ https://user-images.githubusercontent.com/93299213/177038561-e26db08d-11c4-4bba-810b-f6ad599edde6.mp4
+
 
 
 
