@@ -15,6 +15,7 @@ Homepage:
 
 ![page1](https://user-images.githubusercontent.com/93299213/177035617-2f2e3231-bfb2-4dd4-acda-3d7a942cce1d.png)
 
+
 ![page2](https://user-images.githubusercontent.com/93299213/177035621-70b259ae-74e3-43b6-a686-c29c96b8a98b.png)
 
 Product Checkout:
@@ -28,6 +29,7 @@ Payment Gateway:
 Admin Page:
 
 ![page5](https://user-images.githubusercontent.com/93299213/177035635-59554a20-1f79-40f3-beeb-7cc980ab2525.png)
+
 
 ![page6](https://user-images.githubusercontent.com/93299213/177035642-7230afd3-9181-4c14-897a-9dcd86f08024.png)
 
