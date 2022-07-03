@@ -9,6 +9,11 @@ Talking about the features of this system, the admin can manage the users, produ
 
 The user can shop for multiple items and pay online through cards. This simple project is similar to the online shop portal. The design of this project is very simple so that the user won’t find any difficulties while working on it.
 
+Flow Chart:
+
+![image](https://user-images.githubusercontent.com/93299213/177050393-4d4723a4-9820-44d6-9659-871a51b9c3b6.png)
+
+
 Images of the Webpage:
 
 Homepage:
