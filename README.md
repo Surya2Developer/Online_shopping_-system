@@ -3,7 +3,7 @@ Online shopping is a form of electronic commerce which allows consumers to direc
 
 The Online Shopping System in PHP using XAMPP as virtual Server.
 
-This project contains the admin side and user side where a user can view shopping items details, sign up, and buy products online. While the admin can add items and users, products, manage them, and soon.
+This project contains the admin side and user side where a user can view shopping items details, sign up, and buy products online. While the admin can add items and users, products, manage them, and so on.
 
 Talking about the features of this system, the admin can manage the users, products, and check subscribers. While the user can shop for all the available shopping items by signing in. And, in order to buy products online, he/she has to sign up/in through the system.
 
